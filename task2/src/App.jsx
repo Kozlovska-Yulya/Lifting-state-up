@@ -6,7 +6,7 @@ class App extends React.Component {
   state = {
     userData: {
       firstName: 'John',
-      lastName: 'Form',
+      lastName: 'Doe',
     },
   };
 
