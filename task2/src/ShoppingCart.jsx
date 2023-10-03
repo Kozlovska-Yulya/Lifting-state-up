@@ -16,6 +16,11 @@ class ShoppingCart extends Component {
         name: 'iPhone Pro',
         price: 799,
       },
+      {
+        id: '3',
+        name: 'iPhone Pro Max',
+        price: 1200,
+      },
     ],
   };
   render() {
